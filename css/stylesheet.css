@@ -1,4 +1,93 @@
-body
+body {
+    background-color: white;
+    margin: 0px;
+}
+
+h1 {
+    font-family: 'Staatliches', cursive;
+    color: #3E3E3E;
+}
+
+h2 {
+    font-family: 'Staatliches', cursive;
+    color: #3E3E3E;
+}
+
+#title
 {
-  background-color: white;
+
+}
+
+#summary
+{
+    margin-top: -10px;
+    font-size: 32px;
+}
+
+p {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 22px;
+    text-align: justify;
+    color: #3E3E3E;
+}
+
+#header {
+    height: 70px;
+    background-color: #ffffff;
+    -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.75);
+    margin-bottom: 50px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+#logo {
+    width: 50px;
+    height: 50px;
+    margin-left: 100px;
+    padding-top: 10px;
+}
+
+#logo img {
+    width: 100%;
+    height: auto;
+}
+
+#intro-text {
+    background-color: ;
+}
+
+#intro-image {
+    background-color: ;
+}
+
+#author-img {
+    width: 50px;
+    height: auto;
+    float: left;
+}
+
+#author {
+    background-color: gray;
+}
+
+#author-name {
+    height: auto;
+    float: left;
+    margin-left: 20px;
+}
+
+#author-name p
+{
+    font-size: 16px; !important
+}
+
+.hero {
+    background-color: aliceblue;
+    width: 100%;
+    height: 500px;
 }
